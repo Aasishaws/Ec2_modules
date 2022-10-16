@@ -1,0 +1,7 @@
+region = "us-west-2"
+master_ec2instance = "t2.micro"
+slave_ec2instance = "t2.micro"
+master_count = "1"
+slave_count = "1"
+master_tag = "master-ec2"
+slave_tag = "slave-ec2"
